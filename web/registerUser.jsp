@@ -15,7 +15,7 @@
 <html:errors/>
 </font>
 
-<html:form action="/Register">
+<html:form action="/register">
 
 <br/>
 <bean:message key="label.user.username" /> : 
