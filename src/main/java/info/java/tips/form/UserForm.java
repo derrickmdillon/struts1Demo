@@ -4,10 +4,10 @@ import org.apache.struts.validator.ValidatorForm;
 
 public class UserForm extends ValidatorForm {
 
-    String username;
-    String pwd;
-    String pwd2;
-    String email;
+    private String username;
+    private String pwd;
+    private String pwd2;
+    private String email;
 
     public String getUsername() {
         return username;
