@@ -12,7 +12,7 @@
     <h:submit/>
 
     <hr/>
-    <h:errors/>
+    <h:errors bundle="default"/>
 
 </h:form>
 
